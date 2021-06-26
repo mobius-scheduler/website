@@ -1,6 +1,7 @@
-### Implementation
+### Code
 
-- [Mobius scheduler](https://github.com/mobius-scheduler/mobius)
-- [Apps/customers](https://github.com/mobius-scheduler/apps)
-- [Evaluation scripts](https://github.com/mobius-scheduler/evaluation)
+Our implementation is split across three repositories:
+- [Mobius scheduler implementation](https://github.com/mobius-scheduler/mobius)
+- [Sample app/customer implementations](https://github.com/mobius-scheduler/apps)
+- [Evaluation code](https://github.com/mobius-scheduler/evaluation)
 

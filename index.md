@@ -12,5 +12,7 @@ title: Mobius
 <hr>
 {% include papers.md %}
 <hr>
+{% include cite.md %}
+<hr>
 {% include contact.md %}
 <hr>
